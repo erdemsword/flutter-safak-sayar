@@ -1,6 +1,8 @@
 # flutter-safak-sayar
 Flutter şafak sayar uygulaması
 
-https://i.hizliresim.com/Xc99Wf.jpg
+![alt text](https://i.hizliresim.com/Xc99Wf.jpg)
+![alt text](https://i.hizliresim.com/vAHrYx.jpg)
 
-https://i.hizliresim.com/vAHrYx.jpg
+
+
